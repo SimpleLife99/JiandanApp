@@ -6,3 +6,6 @@
 </p>
 
 <p>这个项目主要是使用vue前端框架编写，写该程序主要为学习vue联手使用，目前已停止更新，且后端服务丧失连接功能</p>
+![welcome page](https://imgchr.com/i/Vh4GSx "欢迎界面")
+![welcome page](https://imgchr.com/i/Vh41YR "欢迎界面")
+![service outline](https://imgchr.com/i/Vh43f1 "掉线")
